@@ -40,7 +40,6 @@ Ensure the following are installed on your system:
 
 ```bash
 git clone https://github.com/Aasthayuli/Employee-Management-System
-cd employeemanagementsystem
 ```
 
 ### Step 2: Import Database
